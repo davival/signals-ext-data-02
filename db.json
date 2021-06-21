@@ -1,7 +1,7 @@
 {
     "Projects": [
             {
-                "mCode": "M12345",
+                "id": "M12345",
                 "biologicalTarget": "vacc",
                 "franchise": "Oncology",
                 "indication": "Indication Cancer",
@@ -11,7 +11,7 @@
                 "therapeuticArea": "Oncology"
             },
             {
-                "mCode": "M54321",
+                "id": "M54321",
                 "biologicalTarget": "AdRB",
                 "franchise": "Ophthalmology",
                 "indication": "Glaucoma",
@@ -21,7 +21,7 @@
                 "therapeuticArea": "Ophthalmology"
             },
 			{
-                "mCode": "M97531",
+                "id": "M97531",
                 "biologicalTarget": "BlgTrg",
                 "franchise": "Neurology",
                 "indication": "Education",
