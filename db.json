@@ -1,5 +1,5 @@
 {
-    "data": [
+    "Projects": [
             {
                 "mCode": "M12345",
                 "biologicalTarget": "vacc",
@@ -30,9 +30,5 @@
                 "projectStatus": "Great",
                 "therapeuticArea": "Neurology"
             }
-			],
-			"paging": {
-			"total": 3	
-			}
-			
+			]
 }			
